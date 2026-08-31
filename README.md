@@ -1,19 +1,10 @@
-# OS-Project_2022
+# OS course project (C++)
 
-Original C++ coursework / practice repository (2022).
+Operating-systems course project, 2022. `main.cpp` + `Makefile` (also built on Replit). Related to the shell / copy-command work in `DesigOS-Shell-and-CopyCommand_2022`.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** C++
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2022). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-C++
-
-## Year
-
-2022
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
